@@ -193,6 +193,8 @@ Si llega a haber algun problema con la compra, al menos les vimos las caras y po
 Una vez señado el producto, se establece un plan de cuotas para cubrir el 80% restante. "Para el horno seran 4 cuotas mensuales de $X".
 El dinero de las cuotas se va acumulando en una cuenta especial de la Mutual.
 Cuando se completa el 100% del pago de todo el grupo, se realiza la compra masiva a la fabrica y se coordina la entrega a los socios.
+O se acuerdan entregas parciales y a medida que se va recaudando, cuando se completa el 80% de X unidades, se pide la entrega parcial.
+La adjudicacion de las unidades compradas podria hacerse por sorteo o licitacion.
 
 Si los miembros estan de acuerdo, podrian aceptarse tokens de trabajo acumulado para pagar la seña o una parte de las cuotas.
 
