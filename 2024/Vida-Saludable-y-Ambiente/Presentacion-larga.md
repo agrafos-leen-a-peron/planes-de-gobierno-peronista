@@ -1,11 +1,5 @@
 ---
 
-### **Deck de Presentación Extenso: Ministerio de Vida Saludable y Ambiente**
-
-**Duración estimada:** 20-25 minutos
-
----
-
 #### **PARTE 1: EL FUNDAMENTO FILOSÓFICO (EL PORQUÉ)**
 
 ---
