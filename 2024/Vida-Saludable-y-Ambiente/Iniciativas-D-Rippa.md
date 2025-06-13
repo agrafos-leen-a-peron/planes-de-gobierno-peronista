@@ -148,7 +148,7 @@ Para ganar los tokens se requerira evidencia del trabajo realizado.
     PDF del folleto digital para evento.
 - Pedido de evaluacion/satisfaccion para sistema de Reputacion
     La calificacion es obligatoria.
-    No la pueden realizar familiares cercanos, la comunidad verifica que amigos/conocidos otorguen calificaciones espurias.
+    No la pueden realizar familiares cercanos, la comunidad verifica que amigos/conocidos NO otorguen calificaciones espurias.
     La reputacion aparece claramente visible, no se pueden eliminar los comentarios, pero se pueden responder para defenderse de acusaciones injustas.
 
 ## Utilizacion
