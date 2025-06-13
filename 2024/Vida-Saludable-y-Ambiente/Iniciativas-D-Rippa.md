@@ -166,6 +166,7 @@ Se crea un sistema de incentivos y recompensas tangibles para el trabajo volunta
 
 Son campañas trimestrales o semestrales.
 Son destinadas a compras de bienes durables, enfocadas en una categoria de productos.
+Podria funcionar como los planes de ahorro previo con sorteo y licitacion.
 
 ## Fase 1: Encuesta/Censo de Interes - Negociacion con productores locales
 
