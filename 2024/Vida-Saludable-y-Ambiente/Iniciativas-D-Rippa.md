@@ -290,3 +290,59 @@ Crea y refuerza lazos de solidaridad.
 Genera un circulo virtuoso: quien hoy supera el tratamiento, mañana, se puede convertir en acompañante de otra persona. Aprovechando su experiencia personal puede ser incluso
 mas valioso que alguien que simplemente recibio un entrenamiento. La red se auto-genera y se expande.
 
+# Canasta Basica de Tareas Comunitarias y Censo Comunitario
+
+## Supuesto
+
+El valor del trabajo no es subjetivo, ni esta basado en la competencia, sino en las preferencias variables de la comunidad, privilegiando la dignidad de quien ofrece su esfuerzo.
+Nos valemos de dos herramientas basicas: la Canasta Basica de Agarrar la Pala y el Censo Comunitario.
+
+## Canasta Basica de Agarrar la Pala
+
+Concepto equivalente a la Canasta Basica de Alimentos que mide la inflacion para leche, fideos y pan.
+Una lista de "tareas testigo" que todos conocemos y podemos pensar sin esfuerzo. Sirve como referencia para todo lo demas.
+
+Podria incluir, por categorias:
+
+- Cuidado y Apoyo Familiar
+
+  - Una hora de cuidado de chicos
+  - Acompañar a una persona mayor
+  - Hacer mandados o tramites
+  - Cuidado de mascotas
+
+- Tareas de Mantenimiento y Mejora del Entorno
+
+  - Una hora de pintura comunitaria (blanquear una pared vandalizada de una plaza, pintar el frente de la sala de primeros auxilios)
+  - Una hora de limpieza de espacios comunes (juntar la basura de una plaza, desmalezar el campito del futbol del club del barrio)
+  - Una hora de jardineria basica (regar las plantas de un espacio publico, cuidar la huerta comunitaria, plantar arboles)
+
+## Censo Comunitario
+
+La Canasta nos da la base: 1 Token = 1 hora de X trabajo comunitario.
+Un proceso ligero, continuado y poco intrusivo permite ajustar de manera comunitaria las equivalencias entre distintas tareas, 
+para lograr una referencia util a la hora de canjear los tokens.
+
+### Como funciona?
+
+Una app con micro interacciones.
+
+Periodicamente (probablemente basado en la cantidad de transacciones este ultimo mes, o semana, etc) la app presenta una micro-interaccion.
+
+"La hora de trabajo de pintura actualmente equivale a 3 tokens. Crees que ahora podria valer un poco mas o un poco menos?"
+Aparecen dos botones: + y -
+
+## Impacto
+
+La Canasta de Labores Comunitarias nos da un ancla, un valor que no esta basado solo en lo tecnico, sino en lo afectivo, basandonos en el cuidado mutuo.
+El Censo Comunitario nos da un mecanismo adaptable y de bajo esfuerzo que mantiene las equivalencias actualizadas de acuerdo a la percepcion de la comunidad toda.
+
+Un sistema de intercambio comunitario que es:
+
+- Estable: anclado en trabajo real, no en especulacion monetaria
+- Justa: las equivalencias son un acuerdo social, no una imposicion
+- Viva: se adapta a los cambios tecnologicos y sociales
+
+La Canasta Basica se trata de la dignificacion del trabajo cotidiano, centro de la vida en comunidad.
+El Censo Comunitario es el pueblo deliberando cual es la recompensa justa y digna del esfuerzo comunitario.
+Es un intento de devolver el poder y la decision a aquellos que ejercen la mayor de las virtudes para un peronista: los trabajadores.
