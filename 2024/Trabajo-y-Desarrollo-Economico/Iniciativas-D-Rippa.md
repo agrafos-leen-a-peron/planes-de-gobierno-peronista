@@ -1,6 +1,6 @@
 # Modelo Nacional de Inteligencia Popular
 
-Una arquitectura federal de celulas de IA closed source, formadas por Organizaciones Libres del Pueblo (OPLs) y coordinadas
+Una arquitectura federal de celulas de IA closed source, formadas por Organizaciones Libres del Pueblo (OLPs) y coordinadas
 por la CGT, para desarrollar modelos de inteligencia artificial hiperlocales, rentables y sindicalmente soberanos.
 
 ## Estructura Organizativa
