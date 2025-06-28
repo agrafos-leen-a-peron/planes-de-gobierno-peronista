@@ -104,4 +104,13 @@ b. Creacion, realizacion y expresion personal y colectiva
     - Proyectos comunitarios, animaciones educativas o contenidos culturales
 
   El ocio creativo le permite al trabajador realizarse, en una comunidad que tambien se realiza.
-  
+
+c. Desarrollo de proyectos con proyeccion economica
+
+  El afiliado puede utilizar su acceso a la infraestructura comun (dentro del consumo de sus cupos mensuales, sean los gratuitos o los subsidiados) para impulsar proyectos propios con potencial comercial,ya sea una aplicaion, una obra artistica, un modelo, un servicio o un emprendimiento tecnico.
+
+  Si ese proyecto prospera y escala, no hay contradiccion con el modelo: al contrario, es una expresion concreta de movilidad social desde una base comunitaria.
+
+  El ascenso del afiliado que aprovecha su cuota de computacion comun para desarrollar una PyME o un producto con valor comercial es una victoria del conjunto. El punto de partida colectivo habilita la
+  realizacion individual con base material concreta. Si ese crecimiento derrama hacia otros compañeros,
+  inspira nuevas celulas o fortalece el tejido productivo: el ciclo se completa.
