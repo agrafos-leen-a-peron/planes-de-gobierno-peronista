@@ -109,7 +109,7 @@ c. Desarrollo de proyectos con proyeccion economica
 
   El afiliado puede utilizar su acceso a la infraestructura comun (dentro del consumo de sus cupos mensuales, sean los gratuitos o los subsidiados) para impulsar proyectos propios con potencial comercial,ya sea una aplicaion, una obra artistica, un modelo, un servicio o un emprendimiento tecnico.
 
-  Este modelo favorece un ciclo virtuoso Hobby > Taller > PyME > Fabrica que cierra el ciclo: el trabajador se convierte en empresario que genera empleo. Empresario peronista.
+  Este modelo favorece un ciclo virtuoso Hobby > Taller > PyME > Fabrica que cierra el ciclo: el trabajador se convierte en empresario. Empresario peronista que genera empleo.
   Si ese proyecto prospera y escala, no hay contradiccion con el modelo: al contrario, es una expresion concreta de movilidad social desde una base comunitaria.
 
   El apotegma peronista de "Gobernar es crear trabajo" llevado al ambito comunitario privado, fomentado con recursos reales aportados por el ecosistema sindical.
