@@ -112,7 +112,7 @@ c. Desarrollo de proyectos con proyeccion economica
   Este modelo favorece un ciclo virtuoso Hobby > Taller > PyME > Fabrica que cierra el ciclo: el trabajador se convierte en empresario que genera empleo. Empresario peronista.
   Si ese proyecto prospera y escala, no hay contradiccion con el modelo: al contrario, es una expresion concreta de movilidad social desde una base comunitaria.
 
-  El apotegma peronista de "Gobernar es crear trabajo" llevado al ambito comunitario, supervisado y fomentado por el ecosistema sindical.
+  El apotegma peronista de "Gobernar es crear trabajo" llevado al ambito comunitario privado, fomentado con recursos reales aportados por el ecosistema sindical.
 
   El ascenso del afiliado que aprovecha su cuota de computacion comun para desarrollar una PyME o un producto con valor comercial es una victoria del conjunto. El punto de partida colectivo habilita la
   realizacion individual con base material concreta. Si ese crecimiento derrama hacia otros compañeros,
